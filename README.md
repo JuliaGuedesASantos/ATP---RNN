@@ -1,5 +1,5 @@
 # <p align="center"> **Rede Neural Recorrente (RNN)** 🌠🌞 </p>
-## <p align="center"> Utilizando uma Rede Neural Recorrente (CNN) para a previsão da quantidade diária de manchas solares </p>
+## <p align="center"> Utilizando uma Rede Neural Recorrente (RNN) para a previsão da quantidade diária de manchas solares </p>
 
 
 **Autoras:** Júlia Guedes Almeida dos Santos & Eloísa Maria Amador Souza
