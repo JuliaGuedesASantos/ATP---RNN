@@ -40,7 +40,7 @@ Para a execução da tarefa proposta, os códigos foram feitos em um notebook: "
 | GitHub | Contribuições |
 |:-----|:--------------|
 | [Júlia Guedes A. dos Santos](https://github.com/JuliaGuedesASantos) | Implementação da rede neural, comentários no código e criação do repositório |
-| [Eloísa Maria Amador Souza]() | Implementação da rede neural e comentários no código |
+| [Eloísa Maria Amador Souza](https://github.com/Eloisa-Souza) | Implementação da rede neural e comentários no código |
 | [Daniel Roberto Cassar](https://github.com/drcassar) | Orientador |
 
 ### Referências 📚
