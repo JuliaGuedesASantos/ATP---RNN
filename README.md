@@ -53,3 +53,5 @@ Para a execução da tarefa proposta, os códigos foram feitos em um notebook: "
 [4] O que é uma Rede Neural Recorrente (RNN)? | IBM. Disponível em: <https://www.ibm.com/br-pt/think/topics/recurrent-neural-networks>. Acesso em: 15 maio 2025.
 
 [5] SINGH, Rishabh. Recurrent Neural Network (RNN). Disponível em: <https://medium.com/@RobuRishabh/recurrent-neural-network-rnn-8412b9abd755>. Acesso em: 15 maio 2025.
+
+[6] INDRAJITBARAT. Recurrent Neural Networks (RNNs): Challenges and Limitations. Disponível em: <https://medium.com/@indrajitbarat9/recurrent-neural-networks-rnns-challenges-and-limitations-4534b25a394c>. Acesso em: 2 jun. 2025. Acesso em: 02 de junho de 2025.
